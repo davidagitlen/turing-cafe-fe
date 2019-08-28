@@ -1,0 +1,10 @@
+h2 {
+  background-color: ghostwhite;
+}
+
+.reservation-card {
+  height: 300px;
+  width: 275px;
+  border: 1px solid black;
+  background: rgba(248, 248, 255, .8);
+}
